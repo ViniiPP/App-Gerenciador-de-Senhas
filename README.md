@@ -19,9 +19,11 @@
 
 
 
-
-
-
+## Telas
+![tela 1 (1)](https://github.com/user-attachments/assets/fcc5285c-d375-4d5b-a365-367d7100701c)
+![tela 2](https://github.com/user-attachments/assets/33b5f874-d15f-4071-918b-7538da944875)
+![tela 3](https://github.com/user-attachments/assets/08ae7757-cada-4738-b91d-a7cf9ce74170)
+![tela 4](https://github.com/user-attachments/assets/74309388-afdb-4a32-8baf-7b598bf0c85e)
 
 
 ## **Dependêcias Utilizadas**
