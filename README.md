@@ -1,7 +1,7 @@
 
 # App Gerenciador de Senhas
 
-- Este app foi desenvolvido por eu, juntamente com o Sujeito Programador para treinamento de React-Native.
+- Este app foi desenvolvido por eu, juntamente com o **Sujeito Programador** para treinamento de React-Native.
 
 -  O app usa estrutra Expo.
 
